@@ -1,0 +1,14 @@
+.storybook
+public
+build
+tailwind.config.js
+dist
+.html
+.json
+.yarn
+node_modules
+.next
+.swc
+.github
+.gitignore
+coverage
